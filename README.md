@@ -68,10 +68,10 @@ Sales Data :The primary dataset used for this analysis is the "sales_data.csv" f
           -Number of orders by time of the day.
           -Number of orders by date.
           -Sales by month.
-          -Number of orders by month
-          -Top/Bottom 5 product by cost.
-          -Five Most & Least ordered products.
-          -Relationship between sales and quantity ordered.
+          -Number of orders by Month.
+          -Top/Bottom 5 product by Cost.
+          -Five Most & Least ordered Products.
+          -Relationship between Sales and Quantity Ordered.
       
 Step 12 : The report was then published to Power BI Service.
 
